@@ -36,7 +36,7 @@ Calculator/
 
 ## 📸 Screenshot
 
-![Calculator Screenshot](Screenshot (25).png)
+![Calculator Screenshot](/.Screenshot (25).png)
 
 ---
 
@@ -44,7 +44,7 @@ Calculator/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/calculator.git
+   git clone https://github.com/muazkhan72/Calculator.git
 
 2. Open the project folder:
    cd calculator
