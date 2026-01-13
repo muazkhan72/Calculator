@@ -36,9 +36,7 @@ Calculator/
 
 ## 📸 Screenshot
 
-![Calculator Screenshot](./screenshot.png)
-
-> *(Replace `screenshot.png` with your actual image path or GitHub image URL)*
+![Calculator Screenshot](Screenshot (25).png)
 
 ---
 
@@ -70,11 +68,11 @@ Calculator/
 
 ---
 
-🙌 Author
+## 🙌 Author
 Muaz Khan
 Frontend / MERN Stack Developer
 
 ---
 
-⭐ Support
+## ⭐ Support
 If you like this project, don’t forget to star ⭐ the repository!
