@@ -36,7 +36,7 @@ Calculator/
 
 ## 📸 Screenshot
 
-![Calculator Screenshot](/.Screenshot (25).png)
+![Calculator Screenshot](./Screenshot (25).png)
 
 ---
 
